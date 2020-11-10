@@ -1,3 +1,4 @@
 if you have issue seeing your username
 follow this steps
 I just copy what he said
+Now I am trying to make a changes from Git and remove to Atom
